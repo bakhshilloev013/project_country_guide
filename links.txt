@@ -1,0 +1,2 @@
+API site: https://restcountries.com/#endpoints-name
+API url: https://restcountries.com/v3.1/name/{name}
